@@ -23,7 +23,7 @@ function Login() {
         justifyContent: 'center', 
         alignItems: 'center', 
         height: '100vh',  // Centers the form on the screen vertically and horizontally
-        backgroundColor: '#F4E1A1'  // yellow page background
+        backgroundColor: '#F4E1A1'  // yellow page background :)
       }}
     >
       
